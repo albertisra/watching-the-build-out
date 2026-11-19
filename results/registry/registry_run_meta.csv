@@ -1,0 +1,15 @@
+key,value
+export_file,Gesamtdatenexport_20261116_26.2.zip
+export_date,2026-11-16
+is_partial,False
+grid_join_available,True
+catalogue_entries,1741
+units_in_scope,9134
+sites,7031
+config_storage_threshold_kw,1000.0
+config_pv_threshold_kw,1000.0
+config_storage_power_basis,gross
+config_pv_power_basis,net
+config_site_distance_m,300.0
+config_location_link_max_m,2000.0
+config_colocation_distance_m,

@@ -1,0 +1,105 @@
+dimension,value,n
+stratum,positive_battery,120
+stratum,positive_pv,120
+stratum,hard_negative,60
+stratum,random_negative,60
+stratum,pilot,50
+technology,ground_pv,150
+technology,battery,140
+technology,n/a,120
+size_class,n/a,120
+size_class,5-20 MW,90
+size_class,1-5 MW,90
+size_class,20-100 MW,79
+size_class,>=100 MW,31
+period,n/a,120
+period,2025_2026,90
+period,2023_2024,64
+period,2019_2022,58
+period,planned,44
+period,before_2019,34
+state,Bayern,74
+state,Niedersachsen,43
+state,Nordrhein-Westfalen,34
+state,Brandenburg,33
+state,Baden-Württemberg,31
+state,Mecklenburg-Vorpommern,28
+state,Sachsen,25
+state,Schleswig-Holstein,25
+state,Sachsen-Anhalt,25
+state,Rheinland-Pfalz,23
+state,Thüringen,20
+state,Hessen,19
+state,Saarland,13
+state,Hamburg,6
+state,Berlin,6
+state,Bremen,5
+stratum_x_state,hard_negative | Baden-Württemberg,4
+stratum_x_state,hard_negative | Bayern,4
+stratum_x_state,hard_negative | Berlin,4
+stratum_x_state,hard_negative | Brandenburg,4
+stratum_x_state,hard_negative | Bremen,3
+stratum_x_state,hard_negative | Hamburg,3
+stratum_x_state,hard_negative | Hessen,4
+stratum_x_state,hard_negative | Mecklenburg-Vorpommern,3
+stratum_x_state,hard_negative | Niedersachsen,4
+stratum_x_state,hard_negative | Nordrhein-Westfalen,4
+stratum_x_state,hard_negative | Rheinland-Pfalz,4
+stratum_x_state,hard_negative | Saarland,4
+stratum_x_state,hard_negative | Sachsen,4
+stratum_x_state,hard_negative | Sachsen-Anhalt,3
+stratum_x_state,hard_negative | Schleswig-Holstein,4
+stratum_x_state,hard_negative | Thüringen,4
+stratum_x_state,pilot | Baden-Württemberg,1
+stratum_x_state,pilot | Bayern,25
+stratum_x_state,pilot | Brandenburg,5
+stratum_x_state,pilot | Niedersachsen,5
+stratum_x_state,pilot | Nordrhein-Westfalen,2
+stratum_x_state,pilot | Rheinland-Pfalz,3
+stratum_x_state,pilot | Sachsen,1
+stratum_x_state,pilot | Sachsen-Anhalt,5
+stratum_x_state,pilot | Schleswig-Holstein,1
+stratum_x_state,pilot | Thüringen,2
+stratum_x_state,positive_battery | Baden-Württemberg,10
+stratum_x_state,positive_battery | Bayern,19
+stratum_x_state,positive_battery | Berlin,2
+stratum_x_state,positive_battery | Brandenburg,9
+stratum_x_state,positive_battery | Bremen,2
+stratum_x_state,positive_battery | Hamburg,2
+stratum_x_state,positive_battery | Hessen,6
+stratum_x_state,positive_battery | Mecklenburg-Vorpommern,8
+stratum_x_state,positive_battery | Niedersachsen,11
+stratum_x_state,positive_battery | Nordrhein-Westfalen,11
+stratum_x_state,positive_battery | Rheinland-Pfalz,7
+stratum_x_state,positive_battery | Saarland,4
+stratum_x_state,positive_battery | Sachsen,8
+stratum_x_state,positive_battery | Sachsen-Anhalt,7
+stratum_x_state,positive_battery | Schleswig-Holstein,8
+stratum_x_state,positive_battery | Thüringen,6
+stratum_x_state,positive_pv | Baden-Württemberg,10
+stratum_x_state,positive_pv | Bayern,21
+stratum_x_state,positive_pv | Brandenburg,10
+stratum_x_state,positive_pv | Hamburg,1
+stratum_x_state,positive_pv | Hessen,7
+stratum_x_state,positive_pv | Mecklenburg-Vorpommern,9
+stratum_x_state,positive_pv | Niedersachsen,9
+stratum_x_state,positive_pv | Nordrhein-Westfalen,7
+stratum_x_state,positive_pv | Rheinland-Pfalz,8
+stratum_x_state,positive_pv | Saarland,4
+stratum_x_state,positive_pv | Sachsen,9
+stratum_x_state,positive_pv | Sachsen-Anhalt,10
+stratum_x_state,positive_pv | Schleswig-Holstein,8
+stratum_x_state,positive_pv | Thüringen,7
+stratum_x_state,random_negative | Baden-Württemberg,6
+stratum_x_state,random_negative | Bayern,5
+stratum_x_state,random_negative | Brandenburg,5
+stratum_x_state,random_negative | Hessen,2
+stratum_x_state,random_negative | Mecklenburg-Vorpommern,8
+stratum_x_state,random_negative | Niedersachsen,14
+stratum_x_state,random_negative | Nordrhein-Westfalen,10
+stratum_x_state,random_negative | Rheinland-Pfalz,1
+stratum_x_state,random_negative | Saarland,1
+stratum_x_state,random_negative | Sachsen,3
+stratum_x_state,random_negative | Schleswig-Holstein,4
+stratum_x_state,random_negative | Thüringen,1
+total,queue,410

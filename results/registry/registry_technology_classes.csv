@@ -1,0 +1,6 @@
+kind,class,units_ge_threshold
+storage,Batterie,1392
+storage,Pumpspeicher,109
+solar,Freiflächensolaranlage / Andere Solaranlage / -,8130
+solar,Gebäudesolaranlage / Gebäudesolaranlage / -,1985
+solar,Sonstige Solaranlage / Andere Solaranlage / -,15

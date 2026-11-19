@@ -1,0 +1,17 @@
+technology,distance_band,sites,sites_sharing_location_id,sites_declared_link
+battery,0 m (same point),231,20,0
+battery,>0 to 10 m,21,1,0
+battery,>10 to 50 m,103,10,0
+battery,>100 to 300 m,164,16,0
+battery,>1000 to 2000 m,97,0,3
+battery,>2000 m,390,0,18
+battery,>300 to 1000 m,107,4,1
+battery,>50 to 100 m,86,6,0
+ground_pv,0 m (same point),231,21,47
+ground_pv,>0 to 10 m,20,1,1
+ground_pv,>10 to 50 m,102,10,16
+ground_pv,>100 to 300 m,171,15,29
+ground_pv,>1000 to 2000 m,331,0,7
+ground_pv,>2000 m,4604,0,54
+ground_pv,>300 to 1000 m,239,4,10
+ground_pv,>50 to 100 m,87,7,13

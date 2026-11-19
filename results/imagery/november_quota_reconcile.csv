@@ -1,0 +1,4 @@
+item,pu,source
+used_before_s1_run,2153.8,quota_log.csv
+planned_s1_140_chips,4296.8,sh_cost_counts.parquet via shcost.estimate
+projected_total_when_s1_run_started,6450.6,sum of the two rows above

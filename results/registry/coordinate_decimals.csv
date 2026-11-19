@@ -1,0 +1,5 @@
+kind,subtype,coord_decimals,units
+solar,ground-mounted,6.0,8125
+solar,other,6.0,1991
+storage,battery,6.0,1350
+storage,other,6.0,102

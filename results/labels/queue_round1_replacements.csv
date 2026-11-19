@@ -1,0 +1,2 @@
+date,old_queue_id,new_queue_id,reason,rule,seed
+2026-11-19,L1-0012,L1-0411,"Author decision 2026-11-19: L1-0012 coordinates rounded to 1 decimal (dp1, about 6.4 km uncertainty)","same cell as L1-0012 (stratum positive_pv, ground_pv, 5-20 MW, 2025_2026, In Betrieb, not co-located); select_positives n=1; precision dp4plus; open-DOP states only (MV excluded); min separation 2000 m to all queue sites; eligible candidates 448",20261112

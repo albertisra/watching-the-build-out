@@ -1,0 +1,9 @@
+technology,reg_status,units,with_location_id,with_voltage_level,with_grid_operator_id,gross_mw,share_with_voltage
+battery,Endgültig stillgelegt,7,0,0,0,16.825,0.0
+battery,In Betrieb,623,623,380,380,4936.97073,0.6099518459069021
+battery,In Planung,753,0,0,0,13082.295470000001,0.0
+battery,Vorübergehend stillgelegt,9,9,3,3,15.55,0.3333333333333333
+ground_pv,Endgültig stillgelegt,16,6,3,3,92.474395,0.1875
+ground_pv,In Betrieb,7060,7060,6228,6228,42867.31387699999,0.8821529745042493
+ground_pv,In Planung,664,0,0,0,8140.477764999999,0.0
+ground_pv,Vorübergehend stillgelegt,2,2,2,2,4.40019,1.0

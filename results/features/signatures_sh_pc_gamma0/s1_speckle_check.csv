@@ -1,0 +1,5 @@
+var,season,window_radius_m,measured_robust_sd_db,speckle_only_sd_db,sd_single_scene_db,median_scenes_per_month,platform,s1_convention
+vv,summer,8.0,2.27393571395874,1.7384822762128327,2.1932353246096365,5.0,sh_pc,gamma0
+vv,winter,8.0,2.279493823814392,1.7384822762128327,2.1932353246096365,5.0,sh_pc,gamma0
+vh,summer,8.0,2.5389547622680664,1.7384822762128327,2.1932353246096365,5.0,sh_pc,gamma0
+vh,winter,8.0,2.5144904540061948,1.7384822762128327,2.1932353246096365,5.0,sh_pc,gamma0

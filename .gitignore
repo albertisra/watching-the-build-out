@@ -1,0 +1,39 @@
+# Secrets (rule 7): never commit
+.env
+.env.*
+!.env.example
+
+# Large data lives in ~/Data/Power_Grid and is symlinked here (rule 8)
+data/raw
+data/chips
+data/processed
+data/checkpoints
+# labels stay in the repo: data/labels/ is NOT ignored
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+build/
+dist/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local Claude settings
+.claude/settings.local.json
+
+# Model artefacts and caches
+*.ckpt
+*.pt
+*.pth
+*.zarr/
+*.nc
+.cache/

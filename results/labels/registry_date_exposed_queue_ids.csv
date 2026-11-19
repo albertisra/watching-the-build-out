@@ -1,0 +1,16 @@
+pilot_id,queue_id,how,figure,n_figures_drawn
+Q049,L1-0027,registry_key,figures/signatures/Q049_series.png,20
+P012,L1-0030,coordinates_35m,figures/signatures/P012_series.png,20
+Q016,L1-0033,registry_key,figures/signatures/Q016_series.png,20
+Q042,L1-0053,registry_key,figures/signatures/Q042_series.png,20
+P016,L1-0055,coordinates_0m,figures/signatures/P016_series.png,20
+P013,L1-0063,coordinates_0m,figures/signatures/P013_series.png,20
+Q044,L1-0070,registry_key,figures/signatures/Q044_series.png,20
+Q015,L1-0078,registry_key,figures/signatures/Q015_series.png,20
+Q010,L1-0088,registry_key,figures/signatures/Q010_series.png,20
+Q014,L1-0110,registry_key,figures/signatures/Q014_series.png,20
+Q018,L1-0139,registry_key,figures/signatures/Q018_series.png,20
+P040,L1-0159,coordinates_55m,figures/signatures/P040_series.png,20
+P007,L1-0271,coordinates_40m,figures/signatures/P007_series.png,20
+Q047,L1-0374,registry_key,figures/signatures/Q047_series.png,20
+Q046,L1-0399,registry_key,figures/signatures/Q046_series.png,20

@@ -1,0 +1,10 @@
+state,n_chips,n_panel_array,n_container_row,n_site_pad,area_m2_panel_array,area_m2_container_row,area_m2_site_pad,quantity_type
+Baden-Württemberg,2,14,44,4,88686.23999999998,2737.4400000000005,919.0400000000001,detected
+Bayern,20,129,594,42,50741.92,184014.56,19790.239999999998,detected
+Brandenburg,3,8,487,19,116551.20000000001,88397.76,10761.439999999999,detected
+Niedersachsen,1,0,1,0,0.0,103.36,0.0,detected
+Nordrhein-Westfalen,3,1,22,5,84.16,1823.3600000000001,1129.12,detected
+Rheinland-Pfalz,3,34,25,1,7799.5199999999995,19805.760000000002,217.28,detected
+Sachsen,5,59,106,5,23013.44,13970.72,1204.3200000000002,detected
+Sachsen-Anhalt,3,2,19,7,171113.76,1178.24,1354.88,detected
+Schleswig-Holstein,5,251,18,16,82143.04,395.99999999999994,1958.4,detected

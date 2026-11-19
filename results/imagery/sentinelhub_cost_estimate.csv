@@ -1,0 +1,8 @@
+scenario,sites,s2_from,s1_from,s2_input_bands,requests,pu_s2,pu_s1,pu_total,used_pu_this_month,used_requests_this_month,pu_after,requests_after,limit_pu_60pct,limit_requests_60pct,fits_60pct_of_one_month,note
+"A spec: 150 sites, S2 from 2017 (8 inputs), S1 from 2015",150,2017,2015,8,3300,8997.0,4605.2,13602.1,1327.7,550,14929.8,3850,6000.0,6000.0,False,as requested; total over three months would be needed
+"B as A without CLD input (7 inputs, no cloud-probability count)",150,2017,2015,7,3300,7872.3,4605.2,12477.5,1327.7,550,13805.2,3850,6000.0,6000.0,False,
+"C 150 sites, S2 from 2019, S1 from 2019",150,2019,2019,8,2400,7646.2,3072.9,10719.2,1327.7,550,12046.9,2950,6000.0,6000.0,False,S1 after IPF 3.10 (2019-06)
+"D pilot v1 only (50 sites), spec",50,2017,2015,8,1100,3135.4,1537.0,4672.3,1327.7,550,6000.0,1650,6000.0,6000.0,False,
+"E 150 sites, S2 only from 2017 (8 inputs), no S1",150,2017,9999,8,1500,8997.0,0.0,8997.0,1327.7,550,10324.7,2050,6000.0,6000.0,False,S1 would follow in a later month
+"F 150 sites, S1 only from 2015",150,9999,2015,8,1800,0.0,4605.2,4605.2,1327.7,550,5932.9,2350,6000.0,6000.0,True,S2 would follow in a later month
+"G sanity 10 sites, spec",10,2017,2015,8,220,674.1,308.4,982.5,1327.7,550,2310.2,770,6000.0,6000.0,True,for the panels

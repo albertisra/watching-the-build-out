@@ -1,0 +1,13 @@
+step,prior,expected,found,pass,note,quantity_type,seed_base
+"A one noiseless step at 20, other features at 0",plan,[20],[20],True,,synthetic (simulation diagnostic),20261112
+"A one noiseless step at 20, other features at 0",scaled,[20],[20],True,,synthetic (simulation diagnostic),20261112
+"B noiseless 4 phases, change points",plan,"[20, 23, 29]",[20],False,"c_t at truth 0.969, 0.020, 0.235",synthetic (simulation diagnostic),20261112
+"B noiseless 4 phases, change points",scaled,"[20, 23, 29]",[20],False,"c_t at truth 0.993, 0.002, 0.364",synthetic (simulation diagnostic),20261112
+C argmax of c_t within +-1 of 20 is 20,scaled,20,20,True,,synthetic (simulation diagnostic),20261112
+D labels of true segments (noiseless),n/a,"[0, 1, 2, 3]","[0, 1, 2, 3]",True,,synthetic (simulation diagnostic),20261112
+"E spurious change points do not move S, E",n/a,"(20, 29)","(20, 29)",True,,synthetic (simulation diagnostic),20261112
+"F noiseless with missing months 21, 22, 25",scaled,"[20, 23, 29]",[20],False,,synthetic (simulation diagnostic),20261112
+"G noiseless, Cl 1 months, noise-matched prior",scaled(0.1),"[20, 21, 27]","[20, 27]",False,"c_t at truth 0.844, 0.395, 1.000",synthetic (simulation diagnostic),20261112
+"G noiseless, Cl 2 months, noise-matched prior",scaled(0.1),"[20, 22, 28]","[20, 22, 28]",True,"c_t at truth 0.833, 0.817, 1.000",synthetic (simulation diagnostic),20261112
+"G noiseless, Cl 3 months, noise-matched prior",scaled(0.1),"[20, 23, 29]","[20, 23, 29]",True,"c_t at truth 1.000, 0.960, 1.000",synthetic (simulation diagnostic),20261112
+"G noiseless, Cl 6 months, noise-matched prior",scaled(0.1),"[20, 26, 32]","[20, 26, 32]",True,"c_t at truth 1.000, 1.000, 1.000",synthetic (simulation diagnostic),20261112

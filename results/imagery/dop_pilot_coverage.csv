@@ -1,0 +1,11 @@
+state,n_sites,n_open_chip,n_with_flight_date,flight_date_min,flight_date_max,quantity_type
+Baden-Württemberg,2,2,0,,,observed
+Bayern,20,20,20,2023-05-29,2026-05-26,observed
+Brandenburg,3,3,0,,,observed
+Hessen,1,0,0,,,observed
+Niedersachsen,1,1,1,2025-03-08,2025-03-08,observed
+Nordrhein-Westfalen,3,3,3,2025-03-04,2026-02-27,observed
+Rheinland-Pfalz,3,3,0,,,observed
+Sachsen,5,5,5,2024-03-20,2025-03-28,observed
+Sachsen-Anhalt,3,3,3,2024-05-13,2025-06-30,observed
+Schleswig-Holstein,5,5,0,,,observed

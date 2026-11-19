@@ -1,0 +1,6 @@
+site_id,n_months,s2_months_with_clear_obs,s2_months_fully_missing,s2_mean_clear_count_per_pixel_month,s2_median_clear_count_over_observed_months,s2_mean_clear_count_alt_rule,s2_mean_passes_per_month,s2_mean_passes_used_per_month,s1_relative_orbit,s1_direction,s1_months_with_obs,s1_mean_scenes_per_month,s1_min_scenes_in_observed_month
+P000,24,24,0,3.683,3.401,3.752,14.167,4.875,95,descending,24,3.417,1
+P009,24,24,0,4.067,4.02,4.223,14.25,5.333,168,descending,24,3.5,2
+P021,24,24,0,3.815,3.313,3.945,14.292,5.208,37,descending,24,3.292,2
+P033,24,22,2,2.026,1.91,2.081,7.25,2.792,168,descending,24,3.458,2
+P045,24,23,1,4.078,4.148,4.273,14.417,5.667,66,descending,24,3.375,2

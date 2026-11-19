@@ -1,0 +1,93 @@
+{
+ "platform": "ee_r1",
+ "platform_name": "Google Earth Engine, round-1 queue store ee_r1 (COPERNICUS/S2_SR_HARMONIZED, COPERNICUS/S1_GRD)",
+ "s1_convention": "sigma0",
+ "s1_note": "sigma0 in dB, ellipsoid-based terrain correction, not terrain flattened (bo.imagery.eechips)",
+ "sites": [
+  "L1-0088=Q010",
+  "L1-0110=Q014",
+  "L1-0078=Q015",
+  "L1-0033=Q016",
+  "L1-0139=Q018",
+  "L1-0053=Q042",
+  "L1-0070=Q044",
+  "L1-0399=Q046",
+  "L1-0374=Q047",
+  "L1-0027=Q049",
+  "L1-0271=P007",
+  "L1-0030=P012",
+  "L1-0063=P013",
+  "L1-0055=P016",
+  "L1-0159=P040"
+ ],
+ "n_s1_noise_chips": 52,
+ "aligned_figure_written": false,
+ "figures_dir": "figures/signatures/ee_r1",
+ "registry_overlay_hidden_for": [
+  "P007",
+  "P012",
+  "P013",
+  "P016",
+  "P040",
+  "Q010",
+  "Q014",
+  "Q015",
+  "Q016",
+  "Q018",
+  "Q042",
+  "Q044",
+  "Q046",
+  "Q047",
+  "Q049"
+ ],
+ "pre_months": [
+  -48,
+  -24
+ ],
+ "post_months": [
+  0,
+  24
+ ],
+ "seasons": {
+  "summer": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "winter": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ]
+ },
+ "psf_grid_m": [
+  0.0,
+  2.5,
+  5.0,
+  7.5,
+  10.0,
+  12.5,
+  15.0,
+  20.0,
+  25.0
+ ],
+ "window_radii_m": [
+  8.0,
+  15.0,
+  23.0,
+  30.0,
+  40.0,
+  60.0,
+  80.0,
+  120.0
+ ],
+ "seed": 20261112,
+ "quantity_type": "modelled",
+ "credit": "Contains modified Copernicus Sentinel data 2015-2026; outlines (c) OpenStreetMap contributors"
+}

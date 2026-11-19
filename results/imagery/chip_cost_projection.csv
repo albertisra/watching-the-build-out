@@ -1,0 +1,7 @@
+component,scenes_or_passes_per_site,mb_per_unit_measured,gb_per_site,gb_all_sites,label,n_sites
+S1 from 2015,553,2.913,1.611,241.667,modelled from measured per-scene bytes (site P002 2025),150
+S1 from 2017,487,2.913,1.419,212.825,modelled from measured per-scene bytes (site P002 2025),150
+S1 from 2019,367,2.913,1.069,160.383,modelled from measured per-scene bytes (site P002 2025),150
+S2 from 2015 (6 bands),930,1.116,1.038,155.709,modelled from measured per-scene bytes (site P002 2025),150
+S2 from 2017 (6 bands),846,1.116,0.944,141.645,modelled from measured per-scene bytes (site P002 2025),150
+S2 from 2019 (6 bands),724,1.116,0.808,121.219,modelled from measured per-scene bytes (site P002 2025),150

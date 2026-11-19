@@ -1,0 +1,9 @@
+technology,reg_status,units,gross_mw,net_mw,usable_mwh,units_kwh_known
+battery,Endgültig stillgelegt,7,16.825,12.833,17.118,7
+battery,In Betrieb,623,4936.97073,4621.41574,8322.431894000001,623
+battery,In Planung,753,13082.295470000001,12977.176950000001,40138.744162,753
+battery,Vorübergehend stillgelegt,9,15.55,15.55,8.380042000000001,9
+ground_pv,Endgültig stillgelegt,16,92.474395,80.12295999999999,,0
+ground_pv,In Betrieb,7060,42867.31387699999,37042.010337,,0
+ground_pv,In Planung,664,8140.477764999999,7165.544345,,0
+ground_pv,Vorübergehend stillgelegt,2,4.40019,3.91052,,0

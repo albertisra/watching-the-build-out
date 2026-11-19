@@ -1,0 +1,16 @@
+pilot_id,store_id,s1_relative_orbit,s1_pass_direction,source,platform,s1_convention
+Q010,L1-0088,66,descending,earthengine,ee_r1,sigma0
+Q014,L1-0110,168,descending,earthengine,ee_r1,sigma0
+Q015,L1-0078,95,descending,earthengine,ee_r1,sigma0
+Q016,L1-0033,139,descending,earthengine,ee_r1,sigma0
+Q018,L1-0139,168,descending,earthengine,ee_r1,sigma0
+Q042,L1-0053,146,ascending,earthengine,ee_r1,sigma0
+Q044,L1-0070,95,descending,earthengine,ee_r1,sigma0
+Q046,L1-0399,146,ascending,earthengine,ee_r1,sigma0
+Q047,L1-0374,66,descending,earthengine,ee_r1,sigma0
+Q049,L1-0027,168,descending,earthengine,ee_r1,sigma0
+P007,L1-0271,139,descending,earthengine,ee_r1,sigma0
+P012,L1-0030,168,descending,earthengine,ee_r1,sigma0
+P013,L1-0063,139,descending,earthengine,ee_r1,sigma0
+P016,L1-0055,168,descending,earthengine,ee_r1,sigma0
+P040,L1-0159,168,descending,earthengine,ee_r1,sigma0

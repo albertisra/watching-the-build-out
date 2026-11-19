@@ -1,0 +1,3 @@
+timestamp_utc,reason,previous_file_sha256
+2026-11-19T09:28:15+00:00,2026-11-19 first write had a greedy-balancing bug (score ignored the change in total imbalance; folds 3 and 4 empty); no labels or model results existed,b024a62b874b8ed5cb1deae9102d1b24181290bbee198b7168528c628ca776ef
+2026-11-19T16:14:36+00:00,"Replacement of L1-0012 by L1-0411 (author decision 2026-11-19, coarse coordinates); block fold inherited, all other rows unchanged",a2a4d1e2bd20885af19e16610fd8f7a373c9e5da8d603f248c230a6cb836fc54

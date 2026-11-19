@@ -1,0 +1,2 @@
+technology,n_sites,shift_m_median,shift_m_max,n_in_queue_round1,note
+ground_pv,12,129.4,1023.7,0,aggregate of the per-site table kept in data/processed/registry/coarse_unit_site_shift.csv (not committed: per-site coordinates)

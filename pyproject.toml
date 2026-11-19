@@ -1,0 +1,49 @@
+[project]
+name = "bo"
+version = "0.0.1"
+description = "Watching the Build-out: tracking Germany's battery storage and solar parks from orbit"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "numpy",
+    "pandas",
+    "pyarrow",
+    "scipy",
+    "scikit-learn",
+    "geopandas",
+    "shapely",
+    "pyproj",
+    "rasterio",
+    "xarray",
+    "zarr",
+    "pystac-client",
+    "planetary-computer",
+    "odc-stac",
+    "requests",
+    "python-dotenv",
+    "pyyaml",
+    "matplotlib",
+    "psutil>=7.2.2",
+    "scikit-image>=0.26.0",
+    "streamlit>=1.67.0",
+    "earthengine-api>=1.7.53",
+    "osmium>=4.3.2",
+]
+
+[dependency-groups]
+dev = ["pytest", "ruff"]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/bo"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+src = ["src", "tests"]

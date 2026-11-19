@@ -1,0 +1,17 @@
+kind,subtype,EinheitBetriebsstatus_text,units,capacity_mw,units_ok,mw_ok,units_swapped,mw_swapped,units_outside,mw_outside,units_missing,mw_missing,share_units_ok,share_mw_ok
+solar,ground-mounted,Endgültig stillgelegt,16,80.12295999999999,16,80.12295999999999,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+solar,ground-mounted,In Betrieb,7430,37374.461414000005,7425,37330.741414,0.0,0.0,4.0,24.91,1.0,18.81,0.9993270524899058,0.9988302172567595
+solar,ground-mounted,In Planung,682,7175.514445000001,682,7175.514445000001,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+solar,ground-mounted,Vorübergehend stillgelegt,2,3.91052,2,3.91052,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+solar,other,Endgültig stillgelegt,6,5.757,6,5.757,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+solar,other,In Betrieb,1822,2953.1538459999997,1814,2945.454366,0.0,0.0,2.0,3.605,6.0,4.09448,0.995609220636663,0.9973927941443252
+solar,other,In Planung,167,281.44221000000005,166,281.43831,0.0,0.0,0.0,0.0,1.0,0.0039,0.9940119760479041,0.999986142803526
+solar,other,Vorübergehend stillgelegt,5,6.0952,5,6.0952,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+storage,battery,Endgültig stillgelegt,7,16.825,6,14.325,0.0,0.0,0.0,0.0,1.0,2.5,0.8571428571428571,0.8514115898959881
+storage,battery,In Betrieb,623,4936.97073,590,4603.3945300000005,0.0,0.0,0.0,0.0,33.0,333.57620000000003,0.9470304975922953,0.9324330205214728
+storage,battery,In Planung,753,13082.295470000001,745,13046.52507,0.0,0.0,0.0,0.0,8.0,35.7704,0.9893758300132802,0.9972657397868724
+storage,battery,Vorübergehend stillgelegt,9,15.55,9,15.55,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+storage,other,Endgültig stillgelegt,5,121.7,5,121.7,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+storage,other,In Betrieb,102,9922.2,95,9009.2,0.0,0.0,7.0,913.0,0.0,0.0,0.9313725490196079,0.9079841164257927
+storage,other,In Planung,1,57.0,1,57.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0
+storage,other,Vorübergehend stillgelegt,1,1.3,1,1.3,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0

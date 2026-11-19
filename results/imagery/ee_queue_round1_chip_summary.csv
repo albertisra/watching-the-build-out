@@ -1,0 +1,6 @@
+stratum,sites_in_queue,sites_done,s2_months_axis,s2_months_with_clear,s1_months_axis,s1_months_zero,bright_flag_months,s2_clear_share,s1_zero_share
+hard_negative,60,60,7080,6736,8520,25,78,0.9514,0.0029
+pilot,50,50,5900,5620,7100,36,83,0.9525,0.0051
+positive_battery,120,120,14160,13338,17040,82,187,0.9419,0.0048
+positive_pv,120,120,14160,13320,17040,68,180,0.9407,0.004
+random_negative,60,60,7080,6646,8520,54,73,0.9387,0.0063

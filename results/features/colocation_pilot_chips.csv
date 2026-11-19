@@ -1,0 +1,3 @@
+subtype,n,with_pv_in_chip,with_battery_in_chip
+battery,20,2,0
+ground-mounted,30,0,2

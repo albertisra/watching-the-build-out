@@ -1,0 +1,10 @@
+subtype,size_class,status,sites
+battery,1-5 MW,In Betrieb,6
+battery,20-100 MW,In Betrieb,5
+battery,5-20 MW,In Betrieb,6
+battery,>=100 MW,In Betrieb,1
+battery,>=100 MW,In Planung,2
+ground-mounted,1-5 MW,In Betrieb,9
+ground-mounted,20-100 MW,In Betrieb,8
+ground-mounted,5-20 MW,In Betrieb,8
+ground-mounted,>=100 MW,In Betrieb,5

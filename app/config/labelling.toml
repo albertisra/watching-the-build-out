@@ -1,0 +1,22 @@
+# Labelling app configuration. The seed is bo.paths.SEED unless set here.
+[queue]
+file = "data/processed/labels/queue_round1.parquet"   # built by task 3.4; full queue, read by the review app only
+view_file = "data/processed/labels/queue_round1_view.parquet"  # blind view (queue_id, lat, lon, bundesland), the only queue file label_app reads
+test_file = "data/processed/labels/queue_test_dev.parquet"  # development queue from the pilot tables
+exposed_ids_file = "results/labels/registry_date_exposed_queue_ids.csv"  # signature figures that drew a registry date
+relabel_fraction = 0.10
+relabel_min_position = 10     # a blind relabel never appears among the first N items of a session
+
+coarse_coords_file = "results/labels/queue_coarse_coordinates.csv"  # dp1/dp2 items get coord_coarse = true
+
+[review]
+allow_during_open_round = false   # true lets review_app reveal registry facts while items are unlabelled (logged)
+
+[test_queue]                  # make_test_queue: how many of each stratum
+positive_battery = 12
+positive_pv = 12
+hard_negative = 8
+random_negative = 8
+
+[display]
+window_months = 9

@@ -1,0 +1,4 @@
+set,n
+input (negatives_v1),100
+dropped_too_close_to_full_registry,0
+negatives_v1,100

@@ -1,0 +1,98 @@
+{
+ "platform": "sh_pc",
+ "platform_name": "Sentinel Hub (Q sites, sh_v1) and Planetary Computer (P sites, v0)",
+ "s1_convention": "gamma0",
+ "s1_note": "gamma0 terrain flattened (Sentinel Hub: Copernicus 30 m DEM; Planetary Computer RTC)",
+ "sites": [
+  "Q010=Q010",
+  "Q014=Q014",
+  "Q015=Q015",
+  "Q016=Q016",
+  "Q018=Q018",
+  "Q042=Q042",
+  "Q044=Q044",
+  "Q046=Q046",
+  "Q047=Q047",
+  "Q049=Q049",
+  "P007=P007",
+  "P009=P009",
+  "P011=P011",
+  "P012=P012",
+  "P013=P013",
+  "P016=P016",
+  "P040=P040",
+  "P042=P042",
+  "P044=P044",
+  "P048=P048"
+ ],
+ "n_s1_noise_chips": 45,
+ "aligned_figure_written": true,
+ "figures_dir": "figures/signatures",
+ "registry_overlay_hidden_for": [
+  "P007",
+  "P012",
+  "P013",
+  "P016",
+  "P040",
+  "Q010",
+  "Q014",
+  "Q015",
+  "Q016",
+  "Q018",
+  "Q042",
+  "Q044",
+  "Q046",
+  "Q047",
+  "Q049"
+ ],
+ "pre_months": [
+  -48,
+  -24
+ ],
+ "post_months": [
+  0,
+  24
+ ],
+ "seasons": {
+  "summer": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "winter": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ]
+ },
+ "psf_grid_m": [
+  0.0,
+  2.5,
+  5.0,
+  7.5,
+  10.0,
+  12.5,
+  15.0,
+  20.0,
+  25.0
+ ],
+ "window_radii_m": [
+  8.0,
+  15.0,
+  23.0,
+  30.0,
+  40.0,
+  60.0,
+  80.0,
+  120.0
+ ],
+ "seed": 20261112,
+ "quantity_type": "modelled",
+ "credit": "Contains modified Copernicus Sentinel data 2015-2026; outlines (c) OpenStreetMap contributors"
+}

@@ -1,0 +1,2 @@
+size_col,n,n_detected,n_blocks,b0,b1,recall_target,min_detectable_size,mds_lo,mds_hi,level,n_boot,n_boot_valid,size_min_observed,size_max_observed,mds_in_observed_range,interval,quantity_type,data
+mw,60,57,32,-1.235283685013169,6.499884618794481,0.8,2.531202313979143,1.1678885792984834,3.582386465537966,0.95,200,176,1.1242753588935916,196.2883595889911,True,"spatial block bootstrap, percentile",detected,"synthetic (software test, not a result)"

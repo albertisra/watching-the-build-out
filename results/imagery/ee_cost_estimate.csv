@@ -1,0 +1,5 @@
+measured_eecu_s_per_site_year_s2,measured_eecu_s_per_site_year_s1,scenario,sites,s2_site_years,s1_site_years,basis,eecu_s_s2,eecu_s_s1,eecu_hours_total,share_of_150_eecu_h_tier,fits_one_month
+16.28,3.0,a_150_pilot_chips,150,1500,1800,batch_equivalent,24428,5400,8.29,0.0552,True
+16.28,3.0,a_150_pilot_chips,150,1500,1800,x3_safety_for_interactive_overhead,73282,16200,24.86,0.1657,True
+16.28,3.0,b_400_queue_sites,400,4000,4800,batch_equivalent,65140,14400,22.09,0.1473,True
+16.28,3.0,b_400_queue_sites,400,4000,4800,x3_safety_for_interactive_overhead,195420,43200,66.28,0.4419,True

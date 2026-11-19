@@ -1,0 +1,12 @@
+key,value
+export_file,Gesamtdatenexport_20261116_26.2.zip
+threshold_kw,1000.0
+catalogue_entries,1741
+total_rows_storage,2951188
+total_rows_solar,6668723
+files_storage,30
+files_solar,67
+files_unreadable_storage,0
+files_unreadable_solar,0
+rows_ge_threshold_storage,1501
+rows_ge_threshold_solar,10130

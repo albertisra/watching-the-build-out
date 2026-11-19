@@ -1,0 +1,6 @@
+collection,group,sites,months_with_clear_obs,months_flagged_bright,flag_rate
+planetary_computer_demo150_2025Q3,hard_negative,50,150,0,0.0
+planetary_computer_demo150_2025Q3,pilot_positive,50,149,0,0.0
+planetary_computer_demo150_2025Q3,random_negative,1,3,0,0.0
+planetary_computer_v0_2018_2026,pilot_positive,10,738,15,0.0203
+sentinelhub_v1_sanity10,pilot_positive,10,1141,19,0.0167

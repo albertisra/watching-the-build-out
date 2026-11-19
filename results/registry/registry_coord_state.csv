@@ -1,0 +1,6 @@
+technology,coord_state,units,gross_mw
+battery,missing,42,371.84659999999997
+battery,ok,1350,17679.7946
+ground_pv,missing,1,21.939
+ground_pv,ok,7737,51040.548137000005
+ground_pv,outside,4,42.17909

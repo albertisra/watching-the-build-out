@@ -1,0 +1,9 @@
+technology,subtype,coord_precision_class,sites,median_implied_unc_m
+battery,Batterie,dp1,3,6695.0
+battery,Batterie,dp2,8,658.0
+battery,Batterie,dp3,22,66.0
+battery,Batterie,dp4plus,1166,7.0
+ground_pv,Freiflächensolaranlage,dp1,34,6576.0
+ground_pv,Freiflächensolaranlage,dp2,61,658.0
+ground_pv,Freiflächensolaranlage,dp3,180,66.0
+ground_pv,Freiflächensolaranlage,dp4plus,5510,7.0
