@@ -16,7 +16,7 @@ In scope are utility-scale battery storage sites from 1 MW and ground-mounted so
 * **H4, pipeline gap.** How does battery capacity under construction at a given time compare with the grid connection commitments published for the same year?
 * **H5, market link.** Does growth in operational battery capacity coincide with narrower daily day-ahead price spreads? This is described only. No causal claim will be made, and the remaining confounders will be named.
 
-[Motivation: the author writes this paragraph in his own words.]
+I built this after using satellite imagery and open sources to track tankers, to see whether the same approach can follow how fast Germany's storage and solar build-out is moving.
 
 ## Two tracks
 
