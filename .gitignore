@@ -37,3 +37,6 @@ dist/
 *.zarr/
 *.nc
 .cache/
+
+# Claude Code agents: working copies stay local, a snapshot is in docs/workflow/claude-agents/
+.claude/
